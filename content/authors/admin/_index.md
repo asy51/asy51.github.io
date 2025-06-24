@@ -57,7 +57,7 @@ education:
   - area: PhD in Computer Science (current)
     institution: Case Western Reserve University
     date_start: 2021-09-01
-    date_end: 2026-05-01 (expected)
+    date_end: 2026-05-01
     summary: |
       Qualifying Exam: Evaluation of Image Generative Models. Supervised by [Dr. Vipin Chaudhary](https://case.edu/engineering/about/faculty-and-staff-directory/vipin-chaudhary)
     # button:
