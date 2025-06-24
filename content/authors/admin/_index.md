@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 유서환
+title: Andrew Seohwan Yu
 
 # Name pronunciation (optional)
-name_pronunciation: Andrew Seohwan Yu
+name_pronunciation: 유서환
 
 # Full name (for SEO)
 first_name: Andrew
@@ -178,4 +178,4 @@ languages:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Andrew Seohwan Yu is a computer science PhD candidate at Case Western Reserve University, investigating computer vision, including 3D / video, foundational models, and generative models. He is also graduate research assistant at the Cleveland Clinic, where he develops and deploys vision models for musculoskeletal MRI, for the mission of osteoarthritis diagnosis and treatment.
