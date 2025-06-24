@@ -3,7 +3,7 @@ title: 'Automatic identification and analysis of basketball plays: NBA on-ball s
 authors:
 - Andrew Yu
 - Sun Sunnie Chung
-date: '2019-01-01'
+date: '2019-01-01T00:00:00Z'
 publishDate: '2025-06-24T13:45:36.332583Z'
 publication_types:
 - paper-conference

@@ -3,7 +3,7 @@ title: 'Framework for analysis and prediction of NBA basketball plays: On-ball s
 authors:
 - Andrew Yu
 - Sunnie Chung
-date: '2019-01-01'
+date: '2019-01-01T00:00:00Z'
 publishDate: '2025-06-24T13:45:36.326528Z'
 publication_types:
 - paper-conference

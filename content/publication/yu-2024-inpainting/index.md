@@ -11,7 +11,7 @@ authors:
 - Naveen Subhas
 - Vipin Chaudhary
 - Xiaojuan Li
-date: '2024-01-01'
+date: '2024-01-01T00:00:00Z'
 publishDate: '2025-06-24T13:45:36.301229Z'
 publication_types:
 - paper-conference
