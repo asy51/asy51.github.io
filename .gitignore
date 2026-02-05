@@ -1,6 +1,3 @@
-mkdocs.yml
-requirements.txt
-.github
 # MkDocs build output
 site/
 
