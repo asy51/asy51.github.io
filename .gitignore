@@ -1,0 +1,13 @@
+mkdocs.yml
+requirements.txt
+.github
+# MkDocs build output
+site/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
