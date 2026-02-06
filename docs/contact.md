@@ -22,9 +22,11 @@ I'm always open to discussing research collaborations, opportunities, or questio
 ## Affiliations
 
 **Case Western Reserve University**
-Department of Computer Science
-Cleveland, OH
+Department of Computer and Data Sciences
+2101 Martin Luther King Jr Dr
+Cleveland, OH 44106
 
-**Cleveland Clinic Lerner Research Institute**
+**Cleveland Clinic Research**
 Program of Advanced Musculoskeletal Imaging (PAMI)
-Cleveland, OH
+9620 Carnegie Ave
+Cleveland, OH 44106

@@ -10,6 +10,7 @@
 <br>:material-lightbulb: **Working on** Multimodal AI (3D medical images, vision, text, audio)
 <br>:material-magnify: **Looking for** machine learning career opportunities and research collaborations
 <br>:material-map-marker: Cleveland, OH, USA (US-born citizen)
+<br>:material-file-document: [Download CV (PDF)](assets/cv_2026_02.pdf)
 
 ---
 
