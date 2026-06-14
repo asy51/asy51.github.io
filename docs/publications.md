@@ -5,9 +5,23 @@
 <figcaption></figcaption>
 </figure>
 
+**Multi-label Ensemble Model for Knee Joint Anatomy and Lesion Segmentation: Segmentation of Clinical Images With Ensembling, Morphology, and Attention (SCEMA)**
+Andrew Seohwan Yu, Mingrui Yang, Kunio Nakamura, Richard Lartey, Sercan Tosun, Naveen Subhas, Carl Winalski, Vipin Chaudhary, Xiaojuan Li
+*MICCAI (Medical Image Computing and Computer Assisted Intervention)*, 2026
+[:material-link: arXiv](https://arxiv.org/abs/2603.14579)
+
+---
+
+**Multi-label Ensemble Model for Knee Joint Anatomy and Lesion Segmentation: Segmentation of Clinical Images With Ensembling, Morphology, and Attention (SCEMA)**
+Andrew Seohwan Yu, Mingrui Yang, Kunio Nakamura, Richard Lartey, Sercan Tosun, Naveen Subhas, Carl Winalski, Vipin Chaudhary, Xiaojuan Li
+*MRM (Magnetic Resonance in Imaging)*, 2026
+[:material-link: DOI](https://doi.org/10.1002/mrm.70365)
+
+---
+
 **Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2**
 Andrew Seohwan Yu, Mohsen Hariri, Xuecen Zhang, Mingrui Yang, Vipin Chaudhary, Xiaojuan Li
-*arXiv preprint arXiv:2408.04762*, 2024
+*SPIE (The International Cociety for Optics and Photonics)*, 2025
 [:material-file-pdf-box: PDF](https://arxiv.org/pdf/2408.04762) · [:material-link: DOI](https://doi.org/10.1117/12.3047346)
 
 ---
@@ -20,19 +34,19 @@ Andrew Seohwan Yu, Mingrui Yang, Richard Lartey, William Holden, Ahmet Hakan Ok,
 
 **Inpainting MRI for unsupervised knee bone marrow edema-like lesion segmentation using conditional diffusion models**
 Andrew Seohwan Yu, Richard Lartey, William Holden, Ahmet Hakan Ok, Jeehun Kim, Carl Winalski, Naveen Subhas, Vipin Chaudhary, Xiaojuan Li
-*Medical Imaging 2024: Imaging Informatics for Healthcare, Research, and Applications*, SPIE, 2024
+*SPIE (The International Cociety for Optics and Photonics)*,  2024
 
 ---
 
 **Forte: Finding Outliers with Representation Typicality Estimation**
 Debargha Ganguly, Warren Morningstar, Andrew Yu, Vipin Chaudhary
-*arXiv preprint arXiv:2410.01322*, 2024
+*ICLR (International Conference on Learning Representations)*, 2024
 
 ---
 
 **Novel Unsupervised Segmentation of Bone Marrow Edema-Like Lesions using Bayesian Conditional Generative Adversarial Networks**
 Andrew Seohwan Yu, Sibaji Gaj, William Holden, Richard Lartey, Jeehun Kim, Carl Winalski, Naveen Subhas, Xiaojuan Li
-
+*ISMRM (The International Society for Magnetic Resonance in Medicine<)*, 2023
 ---
 
 **Framework for analysis and prediction of NBA basketball plays: On-ball screens**
