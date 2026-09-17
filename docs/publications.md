@@ -21,7 +21,7 @@ Andrew Seohwan Yu, Mingrui Yang, Kunio Nakamura, Richard Lartey, Sercan Tosun, N
 
 [2025] **Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2**
 Andrew Seohwan Yu, Mohsen Hariri, Xuecen Zhang, Mingrui Yang, Vipin Chaudhary, Xiaojuan Li
-*SPIE (The International Cociety for Optics and Photonics)*
+*SPIE (The International Society for Optics and Photonics)*
 [:material-file-pdf-box: PDF](https://arxiv.org/pdf/2408.04762) · [:material-link: DOI](https://doi.org/10.1117/12.3047346)
 
 ---
@@ -34,7 +34,7 @@ Andrew Seohwan Yu, Mingrui Yang, Richard Lartey, William Holden, Ahmet Hakan Ok,
 
 [2024] **Inpainting MRI for unsupervised knee bone marrow edema-like lesion segmentation using conditional diffusion models**
 Andrew Seohwan Yu, Richard Lartey, William Holden, Ahmet Hakan Ok, Jeehun Kim, Carl Winalski, Naveen Subhas, Vipin Chaudhary, Xiaojuan Li
-*SPIE (The International Cociety for Optics and Photonics)*,  
+*SPIE (The International Society for Optics and Photonics)*,  
 
 ---
 
