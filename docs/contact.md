@@ -21,12 +21,12 @@ I'm always open to discussing research collaborations, opportunities, or questio
 
 ## Affiliations
 
-**Case Western Reserve University**
-Department of Computer and Data Sciences
-2101 Martin Luther King Jr Dr
+**Case Western Reserve University**\
+Department of Computer and Data Sciences\
+2101 Martin Luther King Jr Dr\
 Cleveland, OH 44106
 
-**Cleveland Clinic Research**
-Program of Advanced Musculoskeletal Imaging (PAMI)
-9620 Carnegie Ave
+**Cleveland Clinic Research**\
+Program of Advanced Musculoskeletal Imaging (PAMI)\
+9620 Carnegie Ave\
 Cleveland, OH 44106
